@@ -1,4 +1,10 @@
-.site-header-bar {
+.guest-fav-header {
     color: black;
+    background-color: white;
     font-family: Roboto;
+    margin: auto;
+    width: 50%;
+    padding: 5px;
+    text-align: center;
+    text-decoration: underline;
 }
