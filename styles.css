@@ -8,3 +8,7 @@
     text-align: center;
     text-decoration: underline;
 }
+
+.search-mag-glass-1 {
+    object-fit: cover;  
+}
