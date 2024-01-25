@@ -3,14 +3,14 @@ html {
 }
 
 .SearchBoxDiv {
-    margin: auto;
-    display: flex;
+    content: justify;
+    display: inline-flex;
 }
 
 #SearchBarTop {
     background-image: url('https://www.svgrepo.com/show/7109/search.svg');
     background-position: 10px 10px;
-    background-size: 5%;
+    background-size: 10%;
     background-repeat: no-repeat;
     width: 85%;
     font-size: 16px;
@@ -20,5 +20,15 @@ html {
     box-shadow: 5px 10px #e7e3e3;
     border: 1px solid #ddd;
     margin-bottom: 12px;
+    margin-right: 10px;
       }
 
+#HeaderFilterIcon {
+    display: inline-flex;
+    width: 30%;
+    margin-left: 45px;
+    border: 1px solid #ddd;
+    border-radius: 50px
+    
+
+}
