@@ -47,7 +47,22 @@ html {
 
 }
 
+
 .subheader {
+    display: flex;
+    flex-direction: row;
+    border: 1px red solid;
 
 }
 
+.subh-menu-item {
+    padding: 12px;
+}
+
+.subh-menu-icon {
+   
+} 
+
+.subh-menu-text {
+    text-align: center;
+}
