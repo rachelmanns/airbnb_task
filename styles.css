@@ -108,6 +108,8 @@ html {
 
 .subh-menu-item {
     padding: 12px;
+    
+
 }
 
 
@@ -136,7 +138,7 @@ html {
 .dates-listing {
     font-family: Roboto;
     color: rgb(115, 113, 113);
-    /* border: 1px red solid; */
+    
     
 }
 
@@ -148,3 +150,23 @@ html {
     /* border: 1px red solid;  */
 }
 
+
+.footer {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    justify-content: space-evenly;
+}
+
+.footer-icon {
+    height: 55px;
+    
+    margin: 0 auto;
+    
+}
+
+.footer-text {
+    font-size: 14px;
+    text-align: center;
+    
+}
