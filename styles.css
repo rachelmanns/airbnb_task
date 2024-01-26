@@ -7,6 +7,7 @@ html {
     font-family: Roboto;
     padding: 8px;
     border: 1px red solid;
+    
 }
 
 .SearchBoxDiv {
@@ -47,7 +48,54 @@ html {
 
 }
 
-.subheader {
 
+.subheader {
+    display: flex;
+    flex-direction: row;
+    border: 1px red solid;
 }
 
+
+.subh-menu-item {
+    padding: 12px;
+}
+
+.subh-menu-icon {
+   
+} 
+
+
+.subh-menu-text {
+    text-align: center;
+}
+
+
+
+/* .listing {
+    width: 470px;
+} */
+
+.listing {
+    border: 1px red solid;  
+}
+
+.listing-image {
+    border-radius: 10%;
+    width: 480px; 
+    border: 1px red solid; 
+}
+
+
+.guest-fav
+
+.place-name-rating-row {
+    display: flex;
+    flex-direction: row;
+    border: 1px red solid;
+}
+
+.rating {
+    display: flex;
+    flex-direction: row;
+    border: 1px red solid;
+}
