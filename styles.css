@@ -1,5 +1,5 @@
 html {
-    font-size: 16px;
+    font-size: 20px;
 }
 
 #Page {
@@ -7,6 +7,8 @@ html {
     font-family: Roboto;
     padding: 8px;
     border: 1px red solid;
+    font-weight: 100;
+    
 }
 
 .SearchBoxDiv {
@@ -52,9 +54,68 @@ html {
     display: flex;
     flex-direction: row;
     border: 1px red solid;
+<<<<<<< HEAD
+=======
+    font-size: 16px;
+}
+
+
+.subh-menu-item {
+    padding: 12px;
+}
+
+.subh-menu-icon {
+   
+} 
+
+
+.subh-menu-text {
+    text-align: center;
+}
+
+
+
+/* .listing {
+    width: 470px;
+} */
+
+.listing {
+    border: 1px red solid;  
+}
+
+.listing-image {
+    border-radius: 10%;
+    width: 480px; 
+    border: 1px red solid; 
+}
+
+
+>>>>>>> first-listing
+
+/* .guest-fav */
+
+
+.under-listing {
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+    border: 1px red solid;
+    justify-content: space-between;
 
 }
 
+.bold {
+    font-weight: bold;
+}
+
+
+.place-name-listing-row {
+    /* display: flex;
+    flex-direction: row; */
+    border: 1px red solid;
+}
+
+<<<<<<< HEAD
 .subh-menu-item {
     padding: 12px;
 }
@@ -66,3 +127,24 @@ html {
 .subh-menu-text {
     text-align: center;
 }
+=======
+.rating {
+    /* display: flex; */
+    /* flex-direction: row; */
+    border: 1px red solid;
+}
+
+.host-type-listing {
+    border: 1px red solid;
+}
+
+.dates-listing {
+    border: 1px red solid;
+}
+
+.price-listing {
+    border: 1px red solid; 
+}
+
+
+>>>>>>> first-listing
