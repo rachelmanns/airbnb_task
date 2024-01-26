@@ -6,7 +6,7 @@ html {
     width: 485px;
     font-family: Roboto;
     padding: 8px;
-    border: 1px red solid;
+    /* border: 1px red solid; */
     font-weight: 100;
     
 }
@@ -16,7 +16,7 @@ html {
     display: flex;
     margin: 0 auto;
     height: 68px;
-    border: 1px red solid;
+    /* border: 1px red solid; */
 }
 
 #SearchBarTop {
@@ -27,6 +27,7 @@ html {
     font-size: 16px;
     padding: 20px 20px 20px 50px;
     border-radius: 35px;
+    font-family: Roboto;
     box-shadow: 5px 10px #e7e3e3;
     border: 1px solid #ddd;
     margin-bottom: 12px;
@@ -35,6 +36,7 @@ html {
     display: flex;
     flex-grow: 5;
     width: 400px;
+    /* border: 1px red solid; */
       }
 
 #HeaderFilterIcon {
@@ -44,16 +46,15 @@ html {
     border: 1px solid #ddd;
     border-radius: 50%;
     flex-grow: 1;
+    /* border: 1px red solid; */
     
-    
-
 }
 
 
 .subheader {
     display: flex;
     flex-direction: row;
-    border: 1px red solid;
+    /* border: 1px red solid; */
     font-size: 16px;
 }
 
@@ -78,13 +79,13 @@ html {
 } */
 
 .listing {
-    border: 1px red solid;  
+    /* border: 1px red solid;   */
 }
 
 .listing-image {
     border-radius: 10%;
     width: 480px; 
-    border: 1px red solid; 
+    /* border: 1px red solid;  */
 }
 
 
@@ -96,38 +97,39 @@ html {
     display: flex;
     flex-direction: row;
     width: 100%;
-    border: 1px red solid;
+    /* border: 1px red solid; */
     justify-content: space-between;
 
 }
 
 .bold {
     font-weight: bold;
+    font-size: 22px;
 }
 
 
 .place-name-listing-row {
     /* display: flex;
     flex-direction: row; */
-    border: 1px red solid;
+    /* border: 1px red solid; */
 }
 
 .rating {
     /* display: flex; */
     /* flex-direction: row; */
-    border: 1px red solid;
+    /* border: 1px red solid; */
 }
 
 .host-type-listing {
-    border: 1px red solid;
+    /* border: 1px red solid; */
 }
 
 .dates-listing {
-    border: 1px red solid;
+    /* border: 1px red solid; */
 }
 
 .price-listing {
-    border: 1px red solid; 
+    /* border: 1px red solid;  */
 }
 
 
