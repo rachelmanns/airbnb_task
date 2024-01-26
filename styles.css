@@ -8,6 +8,7 @@ html {
     padding: 8px;
     /* border: 1px red solid; */
     font-weight: 100;
+    /* margin: 8px; */
     
 }
 
@@ -82,7 +83,7 @@ html {
 
 .listing-image {
     border-radius: 10%;
-    width: 480px; 
+    width: 485px; 
     /* border: 1px red solid;  */
 }
 
@@ -95,7 +96,7 @@ html {
 .under-listing {
     display: flex;
     flex-direction: row;
-    width: 100%;
+    width: 485px;
     /* border: 1px red solid; */
     justify-content: space-between;
 
@@ -112,7 +113,7 @@ html {
     /* display: flex;
     flex-direction: row; */
     /* border: 1px red solid;} */
-    margin-bottom: 2px;
+    
 
 
 .subh-menu-item {
@@ -129,7 +130,7 @@ html {
     text-align: center;
 }
 
-.rating {
+.rating, .place-name-listing-row {
     /* display: flex; */
     /* flex-direction: row; */
     /* border: 1px red solid; */
@@ -139,7 +140,7 @@ html {
 
 
 
-.host-type-listing, .dates-listing, .price-listing {
+.host-type-listing, .dates-listing {
     font-family: Roboto;
     color: rgb(115, 113, 113);
     /* border: 1px red solid; */
@@ -157,6 +158,8 @@ html {
 
 .price-listing {
     font-family: Roboto;
+    margin-bottom: 2px;
+    text-decoration: underline;
     /* border: 1px red solid;  */
 }
 
