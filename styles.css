@@ -74,9 +74,7 @@ html {
 
 
 
-/* .listing {
-    width: 470px;
-} */
+
 
 .listing {
     /* border: 1px red solid;   */
@@ -89,7 +87,7 @@ html {
 }
 
 
->>>>>>> first-listing
+
 
 /* .guest-fav */
 
@@ -106,45 +104,53 @@ html {
 .bold {
     font-weight: bold;
     font-size: 22px;
+    font-family: Roboto;
 }
 
 
-.place-name-listing-row {
+/* .place-name-listing-row {
     /* display: flex;
     flex-direction: row; */
-    /* border: 1px red solid; */
-}
+    /* border: 1px red solid;} */
 
 
 .subh-menu-item {
     padding: 12px;
 }
 
+
 .subh-menu-icon {
    
 } 
 
+
 .subh-menu-text {
     text-align: center;
 }
-=======
+
 .rating {
     /* display: flex; */
     /* flex-direction: row; */
     /* border: 1px red solid; */
 }
 
+
 .host-type-listing {
+    font-family: Roboto;
+    color: rgb(115, 113, 113);
     /* border: 1px red solid; */
 }
+
 
 .dates-listing {
+    font-family: Roboto;
+    color: rgb(115, 113, 113);
     /* border: 1px red solid; */
 }
 
+
 .price-listing {
+    font-family: Roboto;
     /* border: 1px red solid;  */
 }
 
-
->>>>>>> first-listing
