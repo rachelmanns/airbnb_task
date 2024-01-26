@@ -47,6 +47,7 @@ html {
 
 }
 
+
 .subheader {
     display: flex;
     flex-direction: row;
@@ -54,3 +55,14 @@ html {
 
 }
 
+.subh-menu-item {
+    padding: 12px;
+}
+
+.subh-menu-icon {
+   
+} 
+
+.subh-menu-text {
+    text-align: center;
+}
