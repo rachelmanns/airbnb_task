@@ -1,5 +1,5 @@
 html {
-    font-size: 16px;
+    font-size: 20px;
 }
 
 #Page {
@@ -7,6 +7,7 @@ html {
     font-family: Roboto;
     padding: 8px;
     border: 1px red solid;
+    font-weight: 100;
     
 }
 
@@ -53,6 +54,7 @@ html {
     display: flex;
     flex-direction: row;
     border: 1px red solid;
+    font-size: 16px;
 }
 
 
@@ -86,16 +88,46 @@ html {
 }
 
 
-.guest-fav
 
-.place-name-rating-row {
+/* .guest-fav */
+
+
+.under-listing {
     display: flex;
     flex-direction: row;
+    width: 100%;
+    border: 1px red solid;
+    justify-content: space-between;
+
+}
+
+.bold {
+    font-weight: bold;
+}
+
+
+.place-name-listing-row {
+    /* display: flex;
+    flex-direction: row; */
     border: 1px red solid;
 }
 
 .rating {
-    display: flex;
-    flex-direction: row;
+    /* display: flex; */
+    /* flex-direction: row; */
     border: 1px red solid;
 }
+
+.host-type-listing {
+    border: 1px red solid;
+}
+
+.dates-listing {
+    border: 1px red solid;
+}
+
+.price-listing {
+    border: 1px red solid; 
+}
+
+
