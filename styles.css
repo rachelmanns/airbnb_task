@@ -105,6 +105,7 @@ html {
 .bold {
     font-weight: bold;
     font-size: 22px;
+    
 }
 
 
@@ -112,20 +113,26 @@ html {
     /* display: flex;
     flex-direction: row; */
     /* border: 1px red solid; */
+    margin-bottom: 2px;
 }
 
 .rating {
     /* display: flex; */
     /* flex-direction: row; */
     /* border: 1px red solid; */
+    margin-bottom: 6px;
 }
 
-.host-type-listing {
+
+
+.host-type-listing, .dates-listing, .price-listing {
     /* border: 1px red solid; */
+    margin: 0;
 }
 
 .dates-listing {
     /* border: 1px red solid; */
+    
 }
 
 .price-listing {
