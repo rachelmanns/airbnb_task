@@ -104,7 +104,7 @@ html {
 .bold {
     font-weight: bold;
     font-size: 22px;
-    font-family: Roboto;
+    
 }
 
 
@@ -112,6 +112,7 @@ html {
     /* display: flex;
     flex-direction: row; */
     /* border: 1px red solid;} */
+    margin-bottom: 2px;
 
 
 .subh-menu-item {
@@ -132,13 +133,17 @@ html {
     /* display: flex; */
     /* flex-direction: row; */
     /* border: 1px red solid; */
+    margin-bottom: 6px;
 }
 
 
-.host-type-listing {
+
+
+.host-type-listing, .dates-listing, .price-listing {
     font-family: Roboto;
     color: rgb(115, 113, 113);
     /* border: 1px red solid; */
+    margin: 0;
 }
 
 
@@ -146,6 +151,7 @@ html {
     font-family: Roboto;
     color: rgb(115, 113, 113);
     /* border: 1px red solid; */
+    
 }
 
 
