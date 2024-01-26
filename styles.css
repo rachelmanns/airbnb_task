@@ -64,9 +64,6 @@ html {
     padding: 12px;
 }
 
-.subh-menu-icon {
-   
-} 
 
 
 .subh-menu-text {
@@ -77,10 +74,6 @@ html {
 
 
 
-.listing {
-    /* border: 1px red solid;   */
-}
-
 .listing-image {
     border-radius: 10%;
     width: 485px; 
@@ -88,9 +81,6 @@ html {
 }
 
 
-
-
-/* .guest-fav */
 
 
 .under-listing {
@@ -121,10 +111,6 @@ html {
 }
 
 
-.subh-menu-icon {
-   
-} 
-
 
 .subh-menu-text {
     text-align: center;
@@ -136,7 +122,6 @@ html {
     /* border: 1px red solid; */
     margin-bottom: 6px;
 }
-
 
 
 
